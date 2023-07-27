@@ -47,7 +47,7 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
+    
 </body>
 
 </html>
